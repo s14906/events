@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Dzieje sie!</string>
+    <string name="anonymous">Anonymous</string>
+    <string name="sign_out">Sign out</string>
+    <string name="splash_text">Dzieje sie!</string>
+    <string name="logout">Log out</string>
+    <string name="db_url">https://pbochnacki-b9fa7-default-rtdb.europe-west1.firebasedatabase.app/</string>
+    <string name="header_text_view">Event data</string>
+    <string name="header_add_event_text_view">Add new event</string>
+    <string name="event_name_text_view">Event name:</string>
+    <string name="event_location_text_view">Location:</string>
+    <string name="event_date_text_view">Date:</string>
+    <string name="event_description_text_view">Description:</string>
+    <string name="event_user_added_text_view">Added by:</string>
+    <string name="back_button_text">back</string>
+    <string name="show_map_button">Show on map</string>
+    <string name="event_name_hint">Name</string>
+    <string name="event_location_hint">Location</string>
+    <string name="event_date_hint">Tap to select date</string>
+    <string name="event_description_hint">Description</string>
+    <string name="event_image_text_view">Image:</string>
+    <string name="add_image_button">Add image</string>
+    <string name="save_event_button">Save event</string>
+
+</resources>
